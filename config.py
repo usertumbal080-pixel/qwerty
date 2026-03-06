@@ -5,7 +5,7 @@ URLS_LIKE = {"IND":"https://client.ind.freefiremobile.com/LikeProfile",
             "US":"https://client.us.freefiremobile.com/LikeProfile",
             "SAC":"https://client.us.freefiremobile.com/LikeProfile",
             "NA":"https://client.us.freefiremobile.com/LikeProfile",
-            "ID":"https://clientbp.ggblueshark.com/LikeProfile}
+            "ID":"https://clientbp.ggblueshark.com/LikeProfile"}
 
 
 URLS_INFO = {"IND":"https://client.ind.freefiremobile.com/GetPlayerPersonalShow",
