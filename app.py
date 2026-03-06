@@ -63,7 +63,7 @@ def load_tokens(server: str) -> list:
     Token yang expired akan dicoba di-refresh otomatis jika ada field uid+password.
     Token yang tidak bisa direfresh akan dilewati.
     """
-    filepath = f"tokens/{FILES.get(server, 'token_bd.json')}"
+    filepath = f"tokens/{FILES.get(server, 'token_id.json')}"
     try:
         tokens = json.load(open(filepath))
     except Exception:
