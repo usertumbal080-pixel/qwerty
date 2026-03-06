@@ -1,25 +1,50 @@
+URLS_LIKE = {
+    "IND": "https://client.ind.freefiremobile.com/LikeProfile",
+    "BR":  "https://client.us.freefiremobile.com/LikeProfile",
+    "US":  "https://client.us.freefiremobile.com/LikeProfile",
+    "SAC": "https://client.us.freefiremobile.com/LikeProfile",
+    "NA":  "https://client.us.freefiremobile.com/LikeProfile",
+    "ID":  "https://clientbp.ggblueshark.com/LikeProfile",
+    "BD":  "https://clientbp.ggblueshark.com/LikeProfile",
+    "ME":  "https://clientbp.common.ggbluefox.com/LikeProfile",
+    "TH":  "https://clientbp.common.ggbluefox.com/LikeProfile",
+    "VN":  "https://clientbp.ggblueshark.com/LikeProfile",
+    "CIS": "https://clientbp.ggblueshark.com/LikeProfile",
+    "PK":  "https://clientbp.ggblueshark.com/LikeProfile",
+    "TW":  "https://clientbp.ggblueshark.com/LikeProfile",
+    "SG":  "https://clientbp.ggblueshark.com/LikeProfile",
+}
 
+URLS_INFO = {
+    "IND": "https://client.ind.freefiremobile.com/GetPlayerPersonalShow",
+    "BR":  "https://client.us.freefiremobile.com/GetPlayerPersonalShow",
+    "US":  "https://client.us.freefiremobile.com/GetPlayerPersonalShow",
+    "SAC": "https://client.us.freefiremobile.com/GetPlayerPersonalShow",
+    "NA":  "https://client.us.freefiremobile.com/GetPlayerPersonalShow",
+    "ID":  "https://clientbp.ggblueshark.com/GetPlayerPersonalShow",
+    "BD":  "https://clientbp.ggblueshark.com/GetPlayerPersonalShow",
+    "ME":  "https://clientbp.common.ggbluefox.com/GetPlayerPersonalShow",
+    "TH":  "https://clientbp.common.ggbluefox.com/GetPlayerPersonalShow",
+    "VN":  "https://clientbp.ggblueshark.com/GetPlayerPersonalShow",
+    "CIS": "https://clientbp.ggblueshark.com/GetPlayerPersonalShow",
+    "PK":  "https://clientbp.ggblueshark.com/GetPlayerPersonalShow",
+    "TW":  "https://clientbp.ggblueshark.com/GetPlayerPersonalShow",
+    "SG":  "https://clientbp.ggblueshark.com/GetPlayerPersonalShow",
+}
 
-URLS_LIKE = {"IND":"https://client.ind.freefiremobile.com/LikeProfile",
-            "BR":"https://client.us.freefiremobile.com/LikeProfile",
-            "US":"https://client.us.freefiremobile.com/LikeProfile",
-            "SAC":"https://client.us.freefiremobile.com/LikeProfile",
-            "NA":"https://client.us.freefiremobile.com/LikeProfile",
-            "ID":"https://clientbp.ggblueshark.com/LikeProfile"}
-
-
-URLS_INFO = {"IND":"https://client.ind.freefiremobile.com/GetPlayerPersonalShow",
-            "BR":"https://client.us.freefiremobile.com/GetPlayerPersonalShow",
-            "US":"https://client.us.freefiremobile.com/GetPlayerPersonalShow",
-            "SAC":"https://client.us.freefiremobile.com/GetPlayerPersonalShow",
-            "NA":"https://client.us.freefiremobile.com/GetPlayerPersonalShow",
-            "ID":"https://clientbp.ggblueshark.com/GetPlayerPersonalShow"}
-
-
-
-FILES = {"IND":"token_ind.json",
-             "BR":"token_br.json",
-             "US":"token_br.json",
-             "SAC":"token_br.json",
-             "NA":"token_br.json",
-        "ID":"token_id.json"}
+FILES = {
+    "IND": "token_ind.json",
+    "BR":  "token_br.json",
+    "US":  "token_br.json",
+    "SAC": "token_br.json",
+    "NA":  "token_br.json",
+    "ID":  "token_id.json",
+    "BD":  "token_bd.json",
+    "ME":  "token_bd.json",
+    "TH":  "token_bd.json",
+    "VN":  "token_id.json",
+    "CIS": "token_id.json",
+    "PK":  "token_bd.json",
+    "TW":  "token_bd.json",
+    "SG":  "token_id.json",
+}
