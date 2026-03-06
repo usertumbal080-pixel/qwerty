@@ -1,10 +1,6 @@
-Flask[async]
+flask
 requests
 aiohttp
-googleapis-common-protos
 pycryptodome
 protobuf
-Werkzeug
-requests
-PyJWT==2.8.0
-python-dotenv==1.0.0
+urllib3
